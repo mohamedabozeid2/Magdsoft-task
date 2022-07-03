@@ -1,0 +1,13 @@
+{
+  "english" : "English",
+  "fullName" : "Full Name",
+  "name" : "Name",
+  "email" : "Email",
+  "password" : "Password" ,
+  "register": "Register" ,
+  "login" : "Login" ,
+  "phone" : "Phone" ,
+  "confirmPassword" : "Confirm Password",
+  "logout" : "Logout" ,
+  "userData" : "User Data"
+}
